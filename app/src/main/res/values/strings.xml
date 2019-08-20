@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula4</string>
+    <string name="edtxtNota3">ednota3</string>
+    <string name="Nota1">nota1</string>
+    <string name="Nota2">nota2</string>
+    <string name="Nota3">nota3</string>
+    <string name="Calcular">calcular</string>
+</resources>
